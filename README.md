@@ -32,7 +32,7 @@ This simple Code-Quiz allows users to test their knowledge on various topics. It
 
 ## Screenshots
 
-![Screenshot](/assets/img/screenshot.png)
+![Screenshot](/assets/img/Screenshot.png)
 
 ## Contributing
 
